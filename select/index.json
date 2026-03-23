@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Nisemonoyusya",
+  "base_artist": "703goushitsu",
+  "createdAt": "2026-03-23T17:48:57.163875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nisemonoyusya",
+      "artist": "703goushitsu",
+      "has_synced": true,
+      "path": "select/01_Nisemonoyusya_703goushitsu.lrc"
+    }
+  ]
+}
